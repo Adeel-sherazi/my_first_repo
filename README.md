@@ -13,6 +13,9 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+> **📚 Educational Repository Notice**  
+> This repository is used for educational purposes. It is designed to help new developers learn GitHub fundamentals including repositories, branches, commits, and pull requests.
+
 <!--
   <<< Author notes: Course start >>>
   Include start button, a note about Actions minutes,
